@@ -14,7 +14,8 @@ Soy estudiante de programación con sólidos conocimientos en desarrollo web **F
 
 ---
  
-**Actualmente me encuentro desarrollando un software que evalúa el riesgo de autismo en niños mediante técnicas de aprendizaje automático, como parte de mi tesis universitaria.***
+**Actualmente me encuentro desarrollando un software que evalúa el riesgo de autismo en niños mediante técnicas de aprendizaje automático, como parte de mi tesis universitaria.**
+[TEAnimo](https://github.com/TEAnimo)
 
 ---
 
