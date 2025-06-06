@@ -1,4 +1,3 @@
-![Logo](https://i.pinimg.com/736x/99/49/1a/99491a72b7fc7f54507a35b25a32b2af.jpg)
 
 # ¡Hola! Soy Alexis León 
 
