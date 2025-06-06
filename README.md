@@ -3,13 +3,18 @@
 
 Soy estudiante de programación con sólidos conocimientos en desarrollo web **Frontend y Backend**, utilizando tecnologías modernas y versátiles. Tengo experiencia en el uso de:
 
+---
+ 
 ### 🧠 Tecnologías que manejo:
 - **Lenguajes y frameworks**: HTML, CSS, Java, JavaScript, TypeScript, Angular, React, Node.js, FastAPI, Express.js, Python, PHP, HTML5, Kotlin, Dart, Flutter, React Native, Swift
 
 - **Bases de datos**: NoSQL, MySQL, MariaDB, PostgreSQL
 - **Herramientas adicionales**: Git, GitHub, Docker, control de versiones, entornos virtuales (VM)
-- **Machine Learning**: Conocimientos en preprocesamiento de datos, modelos de clasificación, regresión y evaluación de rendimiento utilizando bibliotecas como Scikit-learn, TensorFlow y Keras.
+- **Machine Learning**: Domino diversos modelos de Machine Learning clásicos y avanzados, así como técnicas de Deep Learning, utilizando bibliotecas como Scikit-learn, TensorFlow y Keras.
 
+---
+ 
+**Actualmente me encuentro desarrollando un software que evalúa el riesgo de autismo en niños mediante técnicas de aprendizaje automático, como parte de mi tesis universitaria.***
 
 ---
 
