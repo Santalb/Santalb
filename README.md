@@ -9,7 +9,7 @@ Soy estudiante de programación con sólidos conocimientos en desarrollo web **F
 - **Lenguajes y frameworks**: HTML, CSS, Java, JavaScript, TypeScript, Angular, React, Node.js, FastAPI, Express.js, Python, PHP, HTML5, Kotlin, Dart, Flutter, React Native, Swift
 
 - **Bases de datos**: NoSQL, MySQL, MariaDB, PostgreSQL
-- **Herramientas adicionales**: Git, GitHub, Docker, control de versiones, entornos virtuales (VM)
+- **Herramientas adicionales**: Git, GitHub, Docker, Terraform, control de versiones, entornos virtuales (VM)
 - **Machine Learning**: Domino diversos modelos de Machine Learning clásicos y avanzados, así como técnicas de Deep Learning, utilizando bibliotecas como Scikit-learn, TensorFlow y Keras.
 
 ---
