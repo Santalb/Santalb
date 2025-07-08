@@ -49,7 +49,6 @@ Apasionado por la tecnología, el aprendizaje continuo y los proyectos que combi
 
 | Plataforma  | Contacto |
 |-------------|----------|
-| ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) | [@santarb.al](https://www.instagram.com/santarb.al/) |
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | alexis.leong14@gmail.com |
 | ![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white) | alexis.leon14@icloud.com |
 
