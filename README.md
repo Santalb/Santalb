@@ -1,7 +1,7 @@
 
 # ¡Hola! Soy Alexis León 
 
-Soy estudiante de programación con sólidos conocimientos en desarrollo web **Frontend y Backend**, utilizando tecnologías modernas y versátiles. Tengo experiencia en el uso de:
+Soy Br. en Ingenieria de Computacion y Sistemas con sólidos conocimientos en desarrollo web **Frontend, Backend y Actualiacion de Arquitecturas Web Pasadas**, utilizando tecnologías modernas y versátiles. Tengo experiencia en el uso de:
 
 ---
  
