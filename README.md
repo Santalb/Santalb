@@ -45,7 +45,7 @@ Apasionado por la tecnología, el aprendizaje continuo y los proyectos que combi
 
 ---
 
-##  Contáctame o conoce más en mis redes sociales
+##  Contáctame
 
 | Plataforma  | Contacto |
 |-------------|----------|
