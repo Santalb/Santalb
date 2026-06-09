@@ -1,7 +1,7 @@
 
 # ¡Hola! Soy Alexis León 
 
-Soy Br. en Ingenieria de Computacion y Sistemas con sólidos conocimientos en desarrollo web **Frontend, Backend y Actualiacion de Arquitecturas Web Pasadas**, utilizando tecnologías modernas y versátiles. Tengo experiencia en el uso de:
+Soy Ingeniero de Computacion y Sistemas con sólidos conocimientos en desarrollo web **Frontend, Backend y Actualiacion de Arquitecturas Web Pasadas**, utilizando tecnologías modernas y versátiles. Tengo experiencia en el uso de:
 
 ---
  
